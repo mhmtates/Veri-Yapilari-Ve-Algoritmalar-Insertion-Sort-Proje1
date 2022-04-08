@@ -7,8 +7,6 @@
      c. [2,16,22,27,18,6]
      d. [2,16,18,22,27,6]
      e. [2,6,16,18,22,27]
-
-
     2.O(n) 
     3.Time complexity worst case
     4.18 sayısı dizi sıralandıktan sonra ortada olduğu için average case'dir. 
@@ -18,5 +16,4 @@
 2.	[3,5,7,8,2,9,4,15,6]
 3.	[3,5,7,8,2,9,4,15,6] 
 4.	[2,3,5,7,8,9,4,15,6]
-
 
