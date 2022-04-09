@@ -13,6 +13,7 @@
     4.18 sayısı dizi sıralandıktan sonra ortada olduğu için average case'dir. 
     
    [7,3,5,8,2,9,4,15,6]
+    ---
     Insertion Sort Aşamaları : 
 1.	[3,7,5,8,2,9,4,15,6]
 2.	[3,5,7,8,2,9,4,15,6]
