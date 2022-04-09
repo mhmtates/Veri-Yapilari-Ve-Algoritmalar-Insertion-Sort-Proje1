@@ -1,7 +1,8 @@
 # Veri Yapıları ve Algoritmalar Insertion Sort Proje 1 #
 
     
-    1. [22,27,16,2,18,6] 
+    1. 
+      [22,27,16,2,18,6] 
     
    # Insertion Sort Aşamaları : #
      a. [22,27,16,2,18,6]  
@@ -13,7 +14,6 @@
     3.Time complexity worst case
     4.18 sayısı dizi sıralandıktan sonra ortada olduğu için average case'dir. 
     
-     
      [7,3,5,8,2,9,4,15,6]
       
 1.	[3,7,5,8,2,9,4,15,6]
