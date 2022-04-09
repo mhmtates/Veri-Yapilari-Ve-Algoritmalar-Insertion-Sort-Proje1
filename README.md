@@ -2,7 +2,8 @@
 
     
     1. [22,27,16,2,18,6]
-    # Insertion Sort Aşamaları : # 
+   
+   # Insertion Sort Aşamaları : # 
      a. [22,27,16,2,18,6]  
      b. [16,22,27,2,18,6]  
      c. [2,16,22,27,18,6]
